@@ -1,0 +1,174 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/lipid-lowering-agents-100mg---primary.py
+inputModule3:
+  class: File
+  path: python/lipid-lowering-agents-300mg---primary.py
+inputModule4:
+  class: File
+  path: python/lipid-lowering-agents-400mg---primary.py
+inputModule5:
+  class: File
+  path: python/lipid-lowering-agents-sugarfree---primary.py
+inputModule6:
+  class: File
+  path: python/lipid-lowering-agents-fluvastatin---primary.py
+inputModule7:
+  class: File
+  path: python/lipid-lowering-agents-atorvastatin---primary.py
+inputModule8:
+  class: File
+  path: python/lipid-lowering-agents-375mg---primary.py
+inputModule9:
+  class: File
+  path: python/lipid-lowering-agents-200mg---primary.py
+inputModule10:
+  class: File
+  path: python/lipid-lowering-agents-modifiedrelease---primary.py
+inputModule11:
+  class: File
+  path: python/lipid-lowering-agents-arrow---primary.py
+inputModule12:
+  class: File
+  path: python/lipid-lowering-agents-actavis---primary.py
+inputModule13:
+  class: File
+  path: python/lipid-lowering-agents-300microgram---primary.py
+inputModule14:
+  class: File
+  path: python/lipid-lowering-agents-squibb---primary.py
+inputModule15:
+  class: File
+  path: python/lipid-lowering-agents-aspartame---primary.py
+inputModule16:
+  class: File
+  path: python/lipid-lowering-agents-500mg---primary.py
+inputModule17:
+  class: File
+  path: python/lipid-lowering-agents-hillcross---primary.py
+inputModule18:
+  class: File
+  path: python/lipid-lowering-agents-625mg---primary.py
+inputModule19:
+  class: File
+  path: python/lipid-lowering-agents-micro---primary.py
+inputModule20:
+  class: File
+  path: python/chewable-lipid-lowering-agents---primary.py
+inputModule21:
+  class: File
+  path: python/lipid-lowering-agents-dexcel---primary.py
+inputModule22:
+  class: File
+  path: python/lipid-lowering-agents-bezafibrate---primary.py
+inputModule23:
+  class: File
+  path: python/lipid-lowering-agents-discovery---primary.py
+inputModule24:
+  class: File
+  path: python/lipid-lowering-agents-sandoz---primary.py
+inputModule25:
+  class: File
+  path: python/lipid-lowering-agents-750mg---primary.py
+inputModule26:
+  class: File
+  path: python/lipid-lowering-agents-lescol---primary.py
+inputModule27:
+  class: File
+  path: python/orange-lipid-lowering-agents---primary.py
+inputModule28:
+  class: File
+  path: python/lipid-lowering-agents-simvastatin---primary.py
+inputModule29:
+  class: File
+  path: python/lipid-lowering-agents-1000mg---primary.py
+inputModule30:
+  class: File
+  path: python/lipid-lowering-agents-wockhardt---primary.py
+inputModule31:
+  class: File
+  path: python/lipid-lowering-agents-250mg---primary.py
+inputModule32:
+  class: File
+  path: python/lipid-lowering-agents-rosuvastatin---primary.py
+inputModule33:
+  class: File
+  path: python/lipid-lowering-agents-pfizer---primary.py
+inputModule34:
+  class: File
+  path: python/lipid-lowering-agents-600mg---primary.py
+inputModule35:
+  class: File
+  path: python/lipid-lowering-agents-zocor---primary.py
+inputModule36:
+  class: File
+  path: python/lopid-lipid-lowering-agents---primary.py
+inputModule37:
+  class: File
+  path: python/lipid-lowering-agents-astrazenec---primary.py
+inputModule38:
+  class: File
+  path: python/lipid-lowering-agents-ratiopharm---primary.py
+inputModule39:
+  class: File
+  path: python/lipid-lowering-agents-colestyramine---primary.py
+inputModule40:
+  class: File
+  path: python/nicotinic-lipid-lowering-agents---primary.py
+inputModule41:
+  class: File
+  path: python/light-lipid-lowering-agents---primary.py
+inputModule42:
+  class: File
+  path: python/lipid-lowering-agents-seven---primary.py
+inputModule43:
+  class: File
+  path: python/lipid-lowering-agents-niche---primary.py
+inputModule44:
+  class: File
+  path: python/lipid-lowering-agents-solution---primary.py
+inputModule45:
+  class: File
+  path: python/lipid-lowering-agents-abbott---primary.py
+inputModule46:
+  class: File
+  path: python/lipid-lowering-agents-crestor---primary.py
+inputModule47:
+  class: File
+  path: python/lipid-lowering-agents-ranbaxy---primary.py
+inputModule48:
+  class: File
+  path: python/lipid-lowering-agents-160mg---primary.py
+inputModule49:
+  class: File
+  path: python/lipid-lowering-agents-roche---primary.py
+inputModule50:
+  class: File
+  path: python/lipid-lowering-agents-bezalip---primary.py
+inputModule51:
+  class: File
+  path: python/lipid-lowering-agents-colestipol---primary.py
+inputModule52:
+  class: File
+  path: python/lipid-lowering-agents-267mg---primary.py
+inputModule53:
+  class: File
+  path: python/lipid-lowering-agents-colestid---primary.py
+inputModule54:
+  class: File
+  path: python/lipid-lowering-agents-bristol---primary.py
+inputModule55:
+  class: File
+  path: python/lipid-lowering-agents-powder---primary.py
+inputModule56:
+  class: File
+  path: python/lipid-lowering-agents-lipitor---primary.py
+inputModule57:
+  class: File
+  path: python/output-cases.py
